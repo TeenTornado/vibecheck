@@ -19,7 +19,7 @@
 - **Real-time chat** with typing indicators and error recovery
 
 ### 🔧 **Setup Complete**
-- **API Key Integrated**: `AIzaSyBNevxzj0KwFU8zbm_cibbt-0tQla-DSis`
+- **API Key Integrated**: Set your own Gemini API key in `.env.local`
 - **Environment configured**: `.env.local` ready
 - **Hydration issues fixed**: No more SSR/client mismatches
 - **Build ready**: Clean compilation with all dependencies
